@@ -16,6 +16,7 @@
     "sweetalert2": "^9.14.4",
     "vue": "^2.6.11",
     "vue-lodash": "^2.1.2",
+    "vue-sweetalert2": "^3.0.5",
     "vuelidate": "^0.7.5",
     "vuex": "^3.4.0"
   },
